@@ -6,6 +6,7 @@
 
 - Tenho 15 anos;
 - Estou cursando o 1° ano do Ensino Médio; 
+- Estou aprendendo sobre programação;
 - Meu contato é [email](julia.costa.silva@escola.pr.gov.br).
 
 ❤❤❤❤❤❤❤❤❤❤❤
